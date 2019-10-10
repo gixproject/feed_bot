@@ -1,0 +1,2 @@
+feedparser==5.2.1
+pyTelegramBotAPI==3.6.6
